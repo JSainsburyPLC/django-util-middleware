@@ -1,0 +1,4 @@
+*.pyc
+*.DS_Store
+dist
+django_util_middleware.egg-info
